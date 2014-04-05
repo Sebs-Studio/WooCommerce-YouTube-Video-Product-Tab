@@ -1,0 +1,279 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce YouTube Video Product Tab\n"
+"POT-Creation-Date: 2013-04-19 18:42+0100\n"
+"PO-Revision-Date: 2013-04-19 18:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: Seb's Studio <sebastien@sebs-studio.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:76
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:123
+msgid "YouTube Video Product Tab"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:78
+msgid "If you have a license for JWPlayer, activate the official <a href=\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:82
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:129
+msgid "Enable JWPlayer"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:83
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:130
+msgid ""
+"Enable the use of JWPlayer as the video player for your videos in the "
+"product tab."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:89
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:136
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:601
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:627
+msgid "Player Skin"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:90
+msgid ""
+"Select the player skin you want to use. <small>Licensed version of JWPlayer "
+"Premium/Ads is required for additional premium skins to work!</small>"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:94
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:141
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:603
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:629
+msgid "(default)"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:95
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:142
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:604
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:630
+msgid "Custom Skin"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:108
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:147
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:214
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:645
+msgid "Custom Skin Location"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:109
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:148
+msgid ""
+"Enter the url location of the custom skin. Upload your skin using the <a "
+"href=\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:137
+msgid ""
+"Select the player skin you want to use. <small>If you have a licensed "
+"version of JWPlayer Premium/Ads edition, it will unlock more skins to choose!"
+"</small>"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:199
+msgid "Support"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:200
+msgid "More WooCommerce Extensions"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:212
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:580
+msgid "Video Width"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:213
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:588
+msgid "Video Height"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:215
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:649
+msgid "Upload"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:216
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:725
+msgid "Insert file URL"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:217
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:646
+msgid "Enter the url location of the custom skin."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:275
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:523
+msgid "YouTube Video"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:545
+msgid "Video Title"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:546
+msgid "Enter your title here."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:554
+msgid "Video URL"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:563
+msgid "Video Size"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:565
+msgid "560 x 315"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:566
+msgid "640 x 360"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:567
+msgid "853 x 480"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:568
+msgid "1280 x 720"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:569
+msgid "Custom Size"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:614
+msgid "This overides the player skin selected in the <a href=\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:615
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:632
+msgid ""
+"Player skin only applies if you have enabled the JWPlayer in the <a href=\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:633
+msgid "This overides the player skin selected in the settings."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:657
+msgid "Suggested videos"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:658
+msgid ""
+"Show suggested videos when the video is finished playing. <strong>YouTube "
+"Player Only</strong>"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:665
+msgid "Secure connection"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:666
+msgid "Use HTTPS"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:673
+msgid "No tracking"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:674
+msgid "Enable privacy-enhanced mode. <strong>YouTube Player Only</strong>"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:682
+msgid "Rich Snippets"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:683
+msgid ""
+"Enable video rich snippets for better product search results in search "
+"engines."
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:693
+msgid "Family Friendly"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:694
+msgid "If the video is not family friendly, select \"No\""
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:696
+msgid "Yes"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:697
+msgid "No"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:802
+msgid "Video"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-youtube-video-product-tab/woocommerce-youtube-video-product-tab.php:875
+msgid ""
+"requires <a href=\"http://www.woothemes.com/woocommerce/\" target=\"_blank"
+"\">WooCommerce</a> to be activated in order to work. Please install and "
+"activate <a href=\""
+msgstr ""
